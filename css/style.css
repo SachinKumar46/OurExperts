@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bgColorOfTeam5{
+    background-color: #f2f2f2;
+}
+
+.imgCircleTeam5 img{
+    height: 6.6300rem;
+}
